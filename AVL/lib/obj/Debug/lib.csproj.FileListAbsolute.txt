@@ -1,0 +1,6 @@
+C:\Users\usuario\Desktop\AVL\lib\obj\Debug\lib.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\AVL\lib\obj\Debug\lib.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\AVL\lib\bin\Debug\lib.dll
+C:\Users\usuario\Desktop\AVL\lib\bin\Debug\lib.pdb
+C:\Users\usuario\Desktop\AVL\lib\obj\Debug\lib.dll
+C:\Users\usuario\Desktop\AVL\lib\obj\Debug\lib.pdb
